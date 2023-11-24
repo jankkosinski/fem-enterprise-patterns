@@ -1,7 +1,5 @@
 # Enteprise Patterns Course
 
-This is the sample project for the Enteprise Patterns course for Frontend Masters.
-
 ## Prerequisites
 
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
